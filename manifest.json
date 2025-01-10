@@ -1,0 +1,207 @@
+{
+  "sitemap": {
+    "baseUrl": "https://dotnet.github.io/docfx/",
+    "changefreq": "daily",
+    "priority": 0.5
+  },
+  "source_base_path": "C:/Users/Max Johnson/source/documentation",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Resource",
+      "output": {
+        "resource": {
+          "relative_path": "index.json"
+        }
+      }
+    },
+    {
+      "type": "ApiPage",
+      "source_relative_path": "api/ASE_Assignment.AppCanvas.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ASE_Assignment.AppCanvas.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ApiPage",
+      "source_relative_path": "api/ASE_Assignment.AppCircle.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ASE_Assignment.AppCircle.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ApiPage",
+      "source_relative_path": "api/ASE_Assignment.AppCommandFactory.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ASE_Assignment.AppCommandFactory.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ApiPage",
+      "source_relative_path": "api/ASE_Assignment.AppDrawTo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ASE_Assignment.AppDrawTo.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ApiPage",
+      "source_relative_path": "api/ASE_Assignment.AppMoveTo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ASE_Assignment.AppMoveTo.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ApiPage",
+      "source_relative_path": "api/ASE_Assignment.AppPenColour.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ASE_Assignment.AppPenColour.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ApiPage",
+      "source_relative_path": "api/ASE_Assignment.AppRect.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ASE_Assignment.AppRect.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ApiPage",
+      "source_relative_path": "api/ASE_Assignment.Form1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ASE_Assignment.Form1.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ApiPage",
+      "source_relative_path": "api/ASE_Assignment.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ASE_Assignment.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ApiPage",
+      "source_relative_path": "api/BOOSEprojectTests.AppCanvasTests.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BOOSEprojectTests.AppCanvasTests.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ApiPage",
+      "source_relative_path": "api/BOOSEprojectTests.AppCircleTests.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BOOSEprojectTests.AppCircleTests.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ApiPage",
+      "source_relative_path": "api/BOOSEprojectTests.AppCommandFactoryTests.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BOOSEprojectTests.AppCommandFactoryTests.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ApiPage",
+      "source_relative_path": "api/BOOSEprojectTests.AppDrawToTests.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BOOSEprojectTests.AppDrawToTests.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ApiPage",
+      "source_relative_path": "api/BOOSEprojectTests.AppMoveToTests.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BOOSEprojectTests.AppMoveToTests.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ApiPage",
+      "source_relative_path": "api/BOOSEprojectTests.AppPenColourTests.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BOOSEprojectTests.AppPenColourTests.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ApiPage",
+      "source_relative_path": "api/BOOSEprojectTests.AppRectTests.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BOOSEprojectTests.AppRectTests.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ApiPage",
+      "source_relative_path": "api/BOOSEprojectTests.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BOOSEprojectTests.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html"
+        },
+        ".json": {
+          "relative_path": "api/toc.json"
+        }
+      },
+      "version": ""
+    }
+  ],
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
